@@ -164,10 +164,12 @@
           </div></a>
         </div>
       </div>
+      </div>
       <div class="section-heading text-center">
       <!-- <h3 class="semi-bold">OUR PACKAGE</h3> -->
       <!-- <div class="section-heading-line line-thin"></div> -->
       <p><strong>Tikona Fortside Camping Addition Offering With Some Charges</strong></p>
+      
       
       <div class="row mt-40">
       <div class="col-md-3 col-sm-12 col-12">

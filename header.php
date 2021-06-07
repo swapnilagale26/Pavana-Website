@@ -55,15 +55,17 @@
     </div>
     <div class="nav-menus-wrapper">
       <ul class="nav-menu align-to-right">
-        <li><a href="#package">Our Package</a></li>
-        <li><a href="#about-pavana">About Us</a></li>
+        
+        <li><a href="index.php#package">Our Package</a></li>
+        <li><a href="bangalow.php">Holiday Bangalow</a></li>
+        <li><a href="index.php#about-pavana">About Us</a></li>
        
         
-        <li><a href="#know_ventura">Camping Schedule</a></li>
-        <li><a href="#gallary">Gallery</a></li> 
-        <!-- <li><a href="career.php">Events</a></li> -->
+        <li><a href="index.php#know_ventura">Camping Schedule</a></li>
+        <li><a href="index.php#gallary">Gallery</a></li> 
+        
        
-        <li><a href="#book">Book Now</a></li>
+        <li><a href="index.php#book">Book Now</a></li>
       </ul>
     </div>
   </nav>
